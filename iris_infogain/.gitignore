@@ -4,3 +4,5 @@ embeddings.txt
 *.npz
 *.idx
 .ipynb_checkpoints
+venv/
+idea/
